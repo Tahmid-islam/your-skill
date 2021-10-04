@@ -15,7 +15,7 @@ const Blog = () => {
         <div className="col">
           <div className="card h-100">
             <img
-              src="http://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog1.jpg"
+              src="https://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog1.jpg"
               className="card-img-top"
               alt="..."
             ></img>
@@ -28,7 +28,7 @@ const Blog = () => {
         <div className="col">
           <div className="card h-100">
             <img
-              src="http://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog2.jpg"
+              src="https://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog2.jpg"
               className="card-img-top"
               alt="..."
             ></img>
@@ -41,7 +41,7 @@ const Blog = () => {
         <div className="col">
           <div className="card h-100">
             <img
-              src="http://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog3.jpg"
+              src="https://themeturn.com/tf-db/eduhash/theme/assets/images/blog/blog3.jpg"
               className="card-img-top"
               alt="..."
             ></img>

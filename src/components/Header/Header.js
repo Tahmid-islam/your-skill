@@ -8,8 +8,9 @@ const Header = () => {
     <Navbar expand="lg" sticky="top" className="border-bottom navbar">
       <Container>
         <NavLink to="/" className="Nav-logo fs-2 text-white">
-          YourSkill{" "}
+          YourSkill
           <img
+            className="ps-1"
             style={{ width: "40px", height: "40px" }}
             src="https://www.pngfind.com/pngs/m/314-3147432_skills-vector-icon-hd-png-download.png"
             alt=""
