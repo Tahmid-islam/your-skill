@@ -1,37 +1,83 @@
 [
   {
+    "id": "1",
     "name": "Information About UI/UX Design Degree",
     "cost": 50,
-    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm1.jpg",
+    "img": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "instructor": "Ayman Islam",
-    "total-lesson": 40
+    "description": "The course has a practical component that takes you step-by-step through the workflow of a professional app designer. From user flow diagrams to wire framing to mockups and prototypes.",
+    "lesson": 40
   },
   {
+    "id": "2",
     "name": "Photography Crash Course for Photographer",
     "cost": 40,
-    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm2.jpg",
+    "img": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "instructor": "William",
-    "total-lesson": 50
+    "description": "While there are plenty of digital photography courses that focus on specific styles or how to use gear, it's hard to find a comprehensive course like this one, which is for beginner to advanced photographers.",
+    "lesson": 50
   },
   {
+    "id": "3",
     "name": "React – The Complete Guide (React Router)",
-    "cost": 100,
-    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm3.jpg",
+    "cost": 300,
+    "img": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "instructor": "Jhankar Mahbub",
-    "total-lesson": 400
+    "description": "This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.",
+    "lesson": 400
   },
   {
+    "id": "4",
     "name": "WebCrash Course for Photographer",
     "cost": 180,
-    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm4.jpg",
-    "instructor": "William",
-    "total-lesson": 320
+    "img": "https://images.pexels.com/photos/368893/pexels-photo-368893.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Ricky",
+    "description": "This Commercial Photography Program is designed to meet the demands photographers experience in today’s markets.",
+    "lesson": 252
   },
   {
-    "name": "Career Track: Full Stack Web Development With Python & JavaScript",
-    "cost": 500,
-    "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-300x225.png",
-    "instructor": "Sumit Pal",
-    "total-lesson": 320
+    "id": "5",
+    "name": "The Complete Web Developer",
+    "cost": 380,
+    "img": "https://images.pexels.com/photos/34140/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Harry",
+    "description": "This is the tutorial you've been looking for to become a modern web developer in 2021. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired.",
+    "lesson": 200
+  },
+  {
+    "id": "6",
+    "name": "How to Work with Interior Design",
+    "cost": 230,
+    "img": "https://images.pexels.com/photos/1879066/pexels-photo-1879066.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "jerry",
+    "description": "This course has been created to help you understand the defining characteristics of 18 different popular interior design styles today so that you can either create one of those styles in your own home.",
+    "lesson": 222
+  },
+  {
+    "id": "7",
+    "name": "Learn Ethical Hacking From Scratch",
+    "cost": 430,
+    "img": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Marry",
+    "description": "The course is divided into a number of sections, each section covers a penetration testing / hacking field, in each of these sections you'll first learn how the target system works, the weaknesses of this system.",
+    "lesson": 452
+  },
+  {
+    "id": "8",
+    "name": "Health and Nutrition Life Coach Certification (Accredited)",
+    "cost": 220,
+    "img": "https://images.pexels.com/photos/40751/running-runner-long-distance-fitness-40751.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Jony",
+    "description": "Develop a strong understanding of the psychology of behavioral change so that you can help your clients get past self-defeating habits, avoid relapse, and overcome resistance so they can create lasting lifestyle change.",
+    "lesson": 321
+  },
+  {
+    "id": "9",
+    "name": "Professional Life Coach Certification & Guide (Accredited)",
+    "cost": 120,
+    "img": "https://images.pexels.com/photos/1151418/pexels-photo-1151418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Honey Sing",
+    "description": "This course is designed to teach you everything you need to know to feel confident as a life coach, get your clients real results, and create a thriving life coaching business! ",
+    "lesson": 91
   }
 ]

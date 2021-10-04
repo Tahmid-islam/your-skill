@@ -6,30 +6,36 @@ import About from "./components/About/About";
 import NotFound from "./components/NotFound/NotFound";
 import Courses from "./components/Courses/Courses";
 import Footer from "./components/Footer/Footer";
+import Login from "./components/Login/Login";
 
 function App() {
   return (
-    <Router>
-      <Header></Header>
-      <Switch>
-        <Route path="/home">
-          <Home></Home>
-        </Route>
-        <Route path="/about">
-          <About></About>
-        </Route>
-        <Route path="/courses">
-          <Courses></Courses>
-        </Route>
-        <Route exact path="/">
-          <Home></Home>
-        </Route>
-        <Route path="*">
-          <NotFound></NotFound>
-        </Route>
-      </Switch>
-      <Footer></Footer>
-    </Router>
+    <div className="App">
+      <Router>
+        <Header></Header>
+        <Switch>
+          <Route path="/home">
+            <Home></Home>
+          </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
+          <Route path="/courses">
+            <Courses></Courses>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
+          </Route>
+          <Route exact path="/">
+            <Home></Home>
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
+          </Route>
+        </Switch>
+        <Footer></Footer>
+      </Router>
+    </div>
   );
 }
 

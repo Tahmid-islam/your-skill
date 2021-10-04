@@ -5,6 +5,7 @@ import { Link, useHistory } from "react-router-dom";
 import "./Home.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBook } from "@fortawesome/free-solid-svg-icons";
+import NewsLetter from "../NewsLetter/NewsLetter";
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
@@ -17,6 +18,9 @@ const Home = () => {
 
   const handleCourses = () => {
     history.push("/courses");
+  };
+  const handleSignUp = () => {
+    history.push("/login");
   };
 
   return (
@@ -40,7 +44,10 @@ const Home = () => {
             </button>
           </div>
           <div className="px-3 py-2">
-            <button className="btn border border-1 border-dark p-2">
+            <button
+              onClick={handleSignUp}
+              className="btn btn-border border-1 border-dark p-2"
+            >
               Sign Up
             </button>
           </div>
@@ -89,6 +96,7 @@ const Home = () => {
           dream <br /> come true. <Link to="/courses">View all courses</Link>
         </p>
       </section>
+      <NewsLetter></NewsLetter>
     </div>
   );
 };
