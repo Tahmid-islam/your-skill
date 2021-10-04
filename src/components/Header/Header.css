@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #34495e;
+  color: white;
+}
+.Nav-link,
+.Nav-logo {
+  text-decoration: none;
+  margin-right: 20px;
+  color: black;
+}
+
+.Nav-link:hover {
+  color: green;
+  border-radius: 5px;
+}

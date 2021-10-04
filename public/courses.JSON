@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Information About UI/UX Design Degree",
+    "cost": 50,
+    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm1.jpg",
+    "instructor": "Ayman Islam",
+    "total-lesson": 40
+  },
+  {
+    "name": "Photography Crash Course for Photographer",
+    "cost": 40,
+    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm2.jpg",
+    "instructor": "William",
+    "total-lesson": 50
+  },
+  {
+    "name": "React – The Complete Guide (React Router)",
+    "cost": 100,
+    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm3.jpg",
+    "instructor": "Jhankar Mahbub",
+    "total-lesson": 400
+  },
+  {
+    "name": "WebCrash Course for Photographer",
+    "cost": 180,
+    "img": "http://themeturn.com/tf-db/eduhash/theme/assets/images/course/course-sm4.jpg",
+    "instructor": "William",
+    "total-lesson": 320
+  },
+  {
+    "name": "Career Track: Full Stack Web Development With Python & JavaScript",
+    "cost": 500,
+    "img": "https://bohubrihi.com/wp-content/uploads/2020/07/Asset-7@4x-8-300x225.png",
+    "instructor": "Sumit Pal",
+    "total-lesson": 320
+  }
+]

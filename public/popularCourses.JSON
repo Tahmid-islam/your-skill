@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Information About UI/UX Design Degree",
+    "cost": 50,
+    "img": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Ayman Islam",
+    "description": "The course has a practical component that takes you step-by-step through the workflow of a professional app designer. From user flow diagrams to wire framing to mockups and prototypes.",
+    "lesson": 40
+  },
+  {
+    "id": "2",
+    "name": "Photography Crash Course for Photographer",
+    "cost": 40,
+    "img": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "William",
+    "description": "While there are plenty of digital photography courses that focus on specific styles or how to use gear, it's hard to find a comprehensive course like this one, which is for beginner to advanced photographers.",
+    "lesson": 50
+  },
+  {
+    "id": "3",
+    "name": "React – The Complete Guide (React Router)",
+    "cost": 300,
+    "img": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "Jhankar Mahbub",
+    "description": "This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.",
+    "lesson": 400
+  },
+  {
+    "id": "4",
+    "name": "WebCrash Course for Photographer",
+    "cost": 180,
+    "img": "https://images.pexels.com/photos/368893/pexels-photo-368893.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "instructor": "William",
+    "description": "This Commercial Photography Program is designed to meet the demands photographers experience in today’s markets.",
+    "lesson": 122
+  }
+]
