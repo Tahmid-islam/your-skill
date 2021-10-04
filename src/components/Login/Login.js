@@ -5,8 +5,10 @@ import "./Login.css";
 
 const Login = () => {
   return (
-    <div className="container border border-3 border-dark my-5 py-4 shadow-lg rounded-3">
-      <h1 className="fw-bolder fs-2 text-danger">LOG IN</h1>
+    <div className="container border border-3 border-secondary my-5 py-4 shadow-lg rounded-3">
+      <h1 className="fw-bolder fs-2 text-danger">
+        LOG IN <i class="fas fa-sign-in-alt"></i>
+      </h1>
       <Form className="p-4 login-form">
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>

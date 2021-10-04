@@ -10,7 +10,7 @@ const NewsLetter = () => {
           <p className="fs-1">Subscribe to get latest news</p>
         </div>
         <div className="col-md-12 col-lg-6">
-          <div className="input-group rounded-3 pt-2">
+          <div className="input-group rounded-3 pt-3">
             <input
               type="text"
               className="form-control"

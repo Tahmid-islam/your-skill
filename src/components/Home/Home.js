@@ -6,6 +6,7 @@ import "./Home.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBook } from "@fortawesome/free-solid-svg-icons";
 import NewsLetter from "../NewsLetter/NewsLetter";
+import Blog from "../Blog/Blog";
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
@@ -96,6 +97,7 @@ const Home = () => {
           dream <br /> come true. <Link to="/courses">View all courses</Link>
         </p>
       </section>
+      <Blog></Blog>
       <NewsLetter></NewsLetter>
     </div>
   );

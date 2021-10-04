@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, CardGroup } from "react-bootstrap";
+import "./About.css";
 
 const About = () => {
   return (
@@ -60,7 +61,7 @@ const About = () => {
       </div>
 
       <CardGroup>
-        <Card className="mx-2">
+        <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
             src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-1.jpg"
@@ -70,7 +71,7 @@ const About = () => {
             <Card.Text>CEO, Developer</Card.Text>
           </Card.Body>
         </Card>
-        <Card className="mx-2">
+        <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
             src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-4.jpg"
@@ -80,7 +81,7 @@ const About = () => {
             <Card.Text>Market Researcher</Card.Text>
           </Card.Body>
         </Card>
-        <Card className="mx-2">
+        <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
             src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-2.jpg"
