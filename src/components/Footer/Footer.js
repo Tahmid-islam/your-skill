@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="text-center pt-4">
-        <p className="py-2 fs-5">
+        <p className="py-2 fs-5 fw-bolder">
           Copyright &copy; {new Date().getFullYear()} YourSkill
         </p>
       </div>
