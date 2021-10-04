@@ -64,7 +64,7 @@ const About = () => {
         <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
-            src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-1.jpg"
+            src="https://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-1.jpg"
           />
           <Card.Body>
             <Card.Title>Tanvir Hasan</Card.Title>
@@ -74,7 +74,7 @@ const About = () => {
         <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
-            src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-4.jpg"
+            src="https://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-4.jpg"
           />
           <Card.Body>
             <Card.Title>Harish Ham</Card.Title>
@@ -84,7 +84,7 @@ const About = () => {
         <Card className="mx-2 about-card">
           <Card.Img
             variant="top"
-            src="http://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-2.jpg"
+            src="https://themeturn.com/tf-db/eduhash/theme/assets/images/team/team-2.jpg"
           />
           <Card.Body>
             <Card.Title>Mikele John</Card.Title>
